@@ -37,7 +37,16 @@ npm install
 
 ## Running the Application
 1. Start the Backend Server
-In the backend directory, start the Node.js server. This server provides the API for the CRUD operations.
+In the backend directory,
+Create a .env file which will contain your data keys(
+DB_HOST
+DB_USER
+DB_PASSWORD
+DB_NAME
+JWT_SECRET
+)
+Then
+start the Node.js server. This server provides the API for the CRUD operations.
 
 Run the backend using ("node server.js")
 
