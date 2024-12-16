@@ -39,10 +39,10 @@ npm install
 1. Start the Backend Server
 In the backend directory,
 Create a .env file which will contain your data keys(
-DB_HOST
-DB_USER
-DB_PASSWORD
-DB_NAME
+DB_HOST,
+DB_USER,
+DB_PASSWORD,
+DB_NAME,
 JWT_SECRET
 )
 Then
